@@ -1,1 +1,1 @@
-# FifthRedRockHomework
+    这个TextEditor的代码写的有点粗糙。效果不很好，但是还是满足了最低的需求，看后来改不改吧。（这两周在做数模，作业做的不是很仔细）。最开始读取的那个文件是：G:\\Test\Test.txt

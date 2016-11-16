@@ -1,0 +1,12 @@
+#include<stdio.h>
+main()
+{
+	printf("These values are : \n");
+	int x,y,z;
+	x=2.5;
+	y=2.5;
+	z=2.5;
+	printf("x=%d\n");
+	printf("y=%d\n");
+	printf("z=%d\n");
+}
